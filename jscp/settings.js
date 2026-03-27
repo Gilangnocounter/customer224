@@ -372,7 +372,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b2.png', 
-                content: 'Look at this smile! so pretty right?' 
+                content: 'Happy birthday sayang ❤️' 
             },
         
             // Lembar 2
@@ -381,7 +381,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b4.png', 
-                content: 'Being with you gives me a kind of warmth I’ve never felt before. Sorry for being annoying sometimes.' 
+                content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
             }
         
             // Lembar 3
